@@ -44,11 +44,13 @@ These dice maintain the **original probability distribution** and allow the game
 ## 📌 How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Selvakumar1904/doomed-dice-Challenge.git
+   git clone https://github.com/Selvakumar1904/-Doomed-Dice-Challenge.git
+
+
    ```
 2. Navigate to the directory:
    ```bash
-   cd doomed-dice
+   cd Doomed-Dice-Challenge
    ```
 3. Run the Python script:
    ```bash
